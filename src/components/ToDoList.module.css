@@ -1,0 +1,42 @@
+.ToDoClass {
+  margin: 0rem auto;
+  width: 40%;
+  max-width: 40rem;
+ 
+}
+
+.toDowrapper {
+  max-width: 78rem;
+}
+
+.ToDoClass ul {
+  list-style: none;
+  padding: 0rem;
+}
+
+.ToDoClass_II li {
+  margin: 0.5rem 0;
+  padding: 1rem;
+  list-style: none;
+  border-radius: 20px;
+  border: 1px solid #141414;
+  background-color: #181717;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  color: rgb(255, 255, 255);
+  display: flex;
+}
+
+.editBtn {
+  padding-left: 20px;
+  width: 30px;
+}
+
+.deleteBtn {
+  padding-left: 10px;
+  width: 30px;
+}
+
+
+.dummy img{
+  float: left;
+}

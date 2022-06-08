@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Icons" transform="translate(3 3)">
+    <g id="Rounded" transform="translate(-3 -3)">
+      <g id="Image">
+        <g id="_-Round-_-Image-_-edit" data-name="-Round-/-Image-/-edit" transform="translate(0 0)">
+          <g id="Group_1" data-name="Group 1">
+            <path id="Path" d="M0,0H44V44H0Z" fill="none" fill-rule="evenodd"/>
+            <path id="_-Icon-Color" data-name="🔹-Icon-Color" d="M3,29.512v5.573A.908.908,0,0,0,3.917,36H9.49a.86.86,0,0,0,.642-.275l20.02-20L23.277,8.85l-20,20A.9.9,0,0,0,3,29.512Zm32.468-19.1a1.826,1.826,0,0,0,0-2.585l-4.29-4.29a1.826,1.826,0,0,0-2.585,0L25.238,6.889l6.875,6.875Z" transform="translate(2.5 2.498)" fill="#fff" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
